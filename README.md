@@ -1,4 +1,4 @@
-## Smart-dustbin (visit website:- https://abhinandanraj7257-creator.github.io/techrobotics-AR/ )
+## Smart-dustbin (more indformation:- https://abhinandanraj7257-creator.github.io/techrobotics-AR/ )
 # 🗑️ Smart Dustbin System (Automatic Touchless Trash Can)
 # 📌 Project Overview
 
